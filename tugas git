@@ -18,3 +18,6 @@ elif na >= 40:
     indeks = 'D'
 else:
     indeks = 'E'
+
+    print("\nNilai Akhir  = %0.2f" % na)
+print("Nilai Indeks = %c" % indeks)
