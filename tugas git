@@ -23,3 +23,6 @@ else:
 print("Nilai Indeks = %c" % indeks)
 
 menentukan bilangan ganjil dann genap
+bil = int(input("Masukan Bilangan :"))
+
+if bil % 2 == 0:
